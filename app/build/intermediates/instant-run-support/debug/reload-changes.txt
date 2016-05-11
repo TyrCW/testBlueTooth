@@ -1,0 +1,6 @@
+CHANGED,E:\AndroidStudioProjects\TestBlueTooth\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\testBlueTooth\testBlueTooth$override.class
+CHANGED,E:\AndroidStudioProjects\TestBlueTooth\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\testBlueTooth\testBlueTooth$AcceptThread$override.class
+CHANGED,E:\AndroidStudioProjects\TestBlueTooth\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\testBlueTooth\testBlueTooth$ItemClickEvent$override.class
+CHANGED,E:\AndroidStudioProjects\TestBlueTooth\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\testBlueTooth\testBlueTooth$1$override.class
+CHANGED,E:\AndroidStudioProjects\TestBlueTooth\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,E:\AndroidStudioProjects\TestBlueTooth\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\testBlueTooth\testBlueTooth$ClickEvent$override.class
